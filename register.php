@@ -39,9 +39,9 @@
                         <label for="warganegara">Warga Negara</label>
                         <input type="text" name="warganegara" id="warganegara" placeholder="Warga Negara" required>
                     </div>
-                    <div class="data-part">
+                    <div class="data-part-alamat">
                         <label for="alamat">Alamat</label>
-                        <input type="textarea" name="alamat" id="alamat" placeholder="Alamat" required>
+                        <textarea name="alamat" id="alamat" placeholder="Alamat" required></textarea>
                     </div>
                     <div class="data-part">
                         <label for="username">Username</label>
